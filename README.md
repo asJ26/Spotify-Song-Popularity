@@ -1,4 +1,4 @@
-# Spotify-Song-Popularity
+# Melody-Metrics
 
 ## Introduction
 The "Song Popularity Prediction Using Spotify Dataset" project is an ambitious initiative focused on predicting the popularity of songs on Spotify. Addressing a significant gap in the music industry, it aims to analyze a vast array of features like 'artist_popularity', 'artist_followers', and various song characteristics, including 'danceability', 'energy', and 'acousticness'. This approach is crucial for understanding what resonates with listeners, providing artists, producers, and record labels with actionable insights for effective strategizing.In terms of methodology, the project adopts an innovative approach, utilizing Decision Tree and KNN algorithms. By comparing the results of these algorithms, the team seeks to determine which one offers superior accuracy in predicting song popularity. This technical rigor is essential in ensuring the reliability and relevance of the findings.
